@@ -1,0 +1,18 @@
+FINDINGS NOTES (sample of 600 reviews, 29 Oct - 10 Nov 2026)
+
+Q1. Is refund the top theme?
+No. By mentions: support 149, delivery_delay 119, other 97, non_delivery 74, refund 73.
+By severity points (mentions x avg severity): support 424, delivery_delay 299,
+other 230, non_delivery 216, refund 208.
+Refund is only 5th by volume, but its average severity (2.85) is among the highest.
+34 of 73 refund reviews also mention support. So the real pain looks like:
+"something fails, then the resolution (refund/support) fails too."
+
+Support check (manual check of 30 tagged reviews): 27 of 30 were truly support complaints.
+
+Limits I must mention:
+- Sample covers only 12 days, so I cannot claim a monthly trend yet.
+- Severity labels are rough: model vs my labels match only 36.7% exactly
+  (within 1 point 100%). The model tends to give 1 where I gave 0 (praise).
+- Honest accuracy on the unseen test set is 74%, not 85% (85% was tuned on the gold set).
+- Support check only measures precision of the support tag, not recall.

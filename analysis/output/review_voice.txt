@@ -1,0 +1,54 @@
+REVIEW-BASED ANSWERS TO THE INTERVIEW QUESTIONS (proxy evidence, not interviews)
+Reviews analysed: 600
+Percentages are keyword-based counts, so they are approximate and may miss Hindi/Hinglish.
+
+Q1. What went wrong with the order?
+    - support: 149 reviews (24.8%)
+    - delivery_delay: 119 reviews (19.8%) | also mention support: 45 (38%)
+    - other: 97 reviews (16.2%) | also mention support: 29 (30%)
+    - non_delivery: 74 reviews (12.3%) | also mention support: 30 (41%)
+    - refund: 73 reviews (12.2%) | also mention support: 34 (47%)
+    - fees_pricing: 69 reviews (11.5%) | also mention support: 11 (16%)
+    - wrong_missing_items: 63 reviews (10.5%) | also mention support: 33 (52%)
+    - tracking_partner: 59 reviews (9.8%) | also mention support: 23 (39%)
+    - food_quality: 43 reviews (7.2%) | also mention support: 19 (44%)
+    - app_experience: 36 reviews (6.0%) | also mention support: 3 (8%)
+    - app_payment: 25 reviews (4.2%) | also mention support: 3 (12%)
+
+Q2. What did they do next?
+  Actions reviewers say they took (base: 600 reviews)
+    - contacted support / chat / agent: 118 (19.7%)
+    - raised a complaint / ticket: 25 (4.2%)
+    - called by phone: 31 (5.2%)
+    - cancelled the order: 57 (9.5%)
+    - waited / tried many times: 23 (3.8%)
+    - mentions Zomato or another app: 23 (3.8%)
+
+Q3. Did they contact support? Bot or human? How many tries?
+  Among reviews tagged support (base: 149 reviews)
+    - bot / automated / AI only: 23 (15.4%)
+    - no reply / no response: 6 (4.0%)
+    - scripted / same reply: 6 (4.0%)
+    - wants a real person: 3 (2.0%)
+    - asked for photo / proof: 11 (7.4%)
+    - could not raise it in the app: 3 (2.0%)
+    - had to try repeatedly: 11 (7.4%)
+
+Q4. How long until resolved? Refund? How did they know it was coming?
+  Among reviews tagged refund (base: 73 reviews)
+    - refund not received / still waiting: 19 (26.0%)
+    - no update / unclear status: 1 (1.4%)
+    - partial refund or credits instead: 6 (8.2%)
+    - money deducted but order failed: 6 (8.2%)
+    Waiting times mentioned: 1 hour(s) (x3), 7 day(s) (x2), 2 hour(s) (x2), 1 hr(s) (x1), 4 hour(s) (x1), 5 hour(s) (x1)
+    Refund reviews that also mention support: 34 of 73
+
+Q5. How did they feel afterwards? Did they order again?
+    Average rating, all reviews: 2.22
+    Average rating, support reviews: 1.07
+    Model-assigned severity 3 (ready to quit), all reviews: 221 (36.8%)
+    Severity 3 among support reviews: 126 (84.6%)
+  Behaviour signals (base: 600 reviews)
+    - says will uninstall / stop ordering: 26 (4.3%)
+    - mentions switching to a competitor: 22 (3.7%)
+    4-5 star reviews that still report a problem: 24

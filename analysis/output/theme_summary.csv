@@ -1,0 +1,12 @@
+themes,mentions,avg_rating,avg_severity,severity_points,low_rating_mentions,pct_of_reviews
+app_experience,16,1.94,1.69,27,12,5.3
+app_payment,13,1.92,2.0,26,9,4.3
+delivery_delay,43,1.35,2.53,109,39,14.3
+fees_pricing,45,1.56,1.89,85,38,15.0
+food_quality,40,1.08,2.55,102,39,13.3
+non_delivery,20,1.05,2.8,56,20,6.7
+other,45,2.11,2.04,92,32,15.0
+refund,24,1.08,2.92,70,23,8.0
+support,72,1.08,2.78,200,70,24.0
+tracking_partner,23,1.04,2.61,60,23,7.7
+wrong_missing_items,28,1.32,2.46,69,26,9.3

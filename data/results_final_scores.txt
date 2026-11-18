@@ -1,0 +1,9 @@
+﻿GOLD SET (150 reviews, current labels)
+keyword baseline   n=150 exact= 45.3% (95% range 38-53%) precision=0.85 recall=0.32 F1=0.47
+LLM v1             n=150 exact= 76.7% (95% range 69-83%) precision=0.76 recall=0.88 F1=0.82
+LLM v2             n=150 exact= 81.3% (95% range 74-87%) precision=0.83 recall=0.87 F1=0.85
+LLM v3 final       n=150 exact= 85.3% (95% range 79-90%) precision=0.88 recall=0.90 F1=0.89
+
+TEST SET (50 reviews, current labels)
+LLM v2             n= 50 exact= 72.0% (95% range 58-83%) precision=0.67 recall=0.83 F1=0.74
+LLM v3 final       n= 50 exact= 74.0% (95% range 60-84%) precision=0.70 recall=0.81 F1=0.75

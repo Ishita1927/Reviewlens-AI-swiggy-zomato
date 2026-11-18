@@ -1,0 +1,51 @@
+﻿Reviews in file: 300 | matched with predictions: 300 | rows marked error (excluded): 0
+Reviews analysed: 300
+Reviews with no complaint theme (praise): 79
+
+--- Ranked by mentions ---
+                     mentions  avg_rating  avg_severity  severity_points  low_rating_mentions  pct_of_reviews
+themes                                                                                                       
+support                    72        1.08          2.78              200                   70            24.0
+fees_pricing               45        1.56          1.89               85                   38            15.0
+other                      45        2.11          2.04               92                   32            15.0
+delivery_delay             43        1.35          2.53              109                   39            14.3
+food_quality               40        1.08          2.55              102                   39            13.3
+wrong_missing_items        28        1.32          2.46               69                   26             9.3
+refund                     24        1.08          2.92               70                   23             8.0
+tracking_partner           23        1.04          2.61               60                   23             7.7
+non_delivery               20        1.05          2.80               56                   20             6.7
+app_experience             16        1.94          1.69               27                   12             5.3
+app_payment                13        1.92          2.00               26                    9             4.3
+
+--- Ranked by severity points (mentions x severity) ---
+                     severity_points  avg_severity  mentions
+themes                                                      
+support                          200          2.78        72
+delivery_delay                   109          2.53        43
+food_quality                     102          2.55        40
+other                             92          2.04        45
+fees_pricing                      85          1.89        45
+refund                            70          2.92        24
+wrong_missing_items               69          2.46        28
+tracking_partner                  60          2.61        23
+non_delivery                      56          2.80        20
+app_experience                    27          1.69        16
+app_payment                       26          2.00        13
+
+--- Ranked by mentions in 1-2 star reviews ---
+                     low_rating_mentions  mentions
+themes                                            
+support                               70        72
+food_quality                          39        40
+delivery_delay                        39        43
+fees_pricing                          38        45
+other                                 32        45
+wrong_missing_items                   26        28
+refund                                23        24
+tracking_partner                      23        23
+non_delivery                          20        20
+app_experience                        12        16
+app_payment                            9        13
+
+Saved analysis/output/trend.png, trend_table.csv, theme_summary.csv
+Saved analysis/output/version_theme_share.csv (versions with 30+ reviews)
