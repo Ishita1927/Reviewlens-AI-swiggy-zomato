@@ -28,3 +28,5 @@ data/reviews_*.csv
 data/pred_*.csv
 docs/*check*.xlsx
 check_*.txt
+data/*.xlsx
+.vscode/
