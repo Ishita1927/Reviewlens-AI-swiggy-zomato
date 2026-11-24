@@ -142,6 +142,3 @@ The project ran on Google's free tier, which allowed about 500 requests per day 
 Run order for Swiggy: `scrape_reviews.py`, `make_window.py`, `llm_classify_v3_FINAL.py`, `score_all.py`, `full_analysis.py`, `review_voice.py`.
 For Zomato: `scrape_zomato.py`, `llm_classify_v3_zomato.py`, then `review_voice.py` with the Zomato files. `make_rice.py` builds the RICE workbook.
 
-## Process note
-
-Parts of the code, the spot-check labels, the mockup and this write-up were drafted with an AI assistant and reviewed by me. The gold-set labels were drafted with AI assistance and reviewed by me.
